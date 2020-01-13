@@ -1,0 +1,2 @@
+klavyeden girdiğiniz cümle = Hello world
+Dosyayı kapatabilirsiniz
